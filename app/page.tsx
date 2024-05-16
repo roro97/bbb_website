@@ -9,17 +9,13 @@ export default function Page() {
       </h1>
       <Image
         className='mb-4'
-        src="/images/Leitherer-dirigieren-cut.jpg"
+        src="/images/full-band.jpg"
         alt="Bond's Big Band"
         width={800}
         height={300}
       />
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        Was 2010 als Bläserkreis der Musikschule Weil am Rhein begann, ist nun die Bonds Big Band, schon in der 2. Generation! Eine junge engagierte Bigband mit Ambitionen und einem breiten Repertoire an Stücken aus Jazz, Funk und Pop.
       </p>
       <div className="my-8">
         <BlogPosts />

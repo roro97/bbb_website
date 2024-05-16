@@ -11,16 +11,16 @@ import { baseUrl } from './sitemap'
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Next.js Portfolio Starter',
-    template: '%s | Next.js Portfolio Starter',
+    default: 'Bonds Big Band',
+    template: '%s | Bonds Big Band',
   },
-  description: 'This is my portfolio.',
+  description: 'Wir sind die Bonds Big Band aus Weil am Rhein',
   openGraph: {
-    title: 'My Portfolio',
-    description: 'This is my portfolio.',
+    title: 'Bonds Big Band',
+    description: 'Wir sind die Bonds Big Band aus Weil am Rhein',
     url: baseUrl,
-    siteName: 'My Portfolio',
-    locale: 'en_US',
+    siteName: 'Bonds Big Band',
+    locale: 'de_DE',
     type: 'website',
   },
   robots: {
